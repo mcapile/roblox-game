@@ -1,0 +1,5 @@
+Instructions:
+- Walk around to intercept cubes
+- Touch a cube to destroy it
+- Let 10 cubes fall and you lose
+- Destroy 50 to win!
