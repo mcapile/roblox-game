@@ -1,6 +1,6 @@
 # Cube Invasion
 
-A simple original game for Roblox Studio.
+A simple  game for Roblox Studio.
 
 ## 🎮 How it works
 
@@ -9,15 +9,7 @@ A simple original game for Roblox Studio.
 - If 10 cubes fall: **Game Over**
 - If the player destroys 50 cubes: **You Win**
 
-## ✅ Requirements fulfilled
 
-- ✅ At least 2 sprites: Player + Cubes
-- ✅ Uses clones (`EnemyCubeTemplate` is cloned during the game)
-- ✅ Variables: `score`, `lives`
-- ✅ List: table `activeCubes` tracks all clones
-- ✅ Custom block: `spawnCube(xPos)` receives a numerical parameter
-- ✅ Victory and Game Over logic
-- ✅ Instructions file included
 
 ## 📂 Files
 
